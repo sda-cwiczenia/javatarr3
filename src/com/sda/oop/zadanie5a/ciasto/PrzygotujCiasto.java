@@ -1,10 +1,10 @@
 package com.sda.oop.zadanie5a.ciasto;
 
-public class PrzygotujPizze implements PizzaDough{
+public class PrzygotujCiasto implements PizzaDough{
 
     String pizzaName;
 
-    public PrzygotujPizze(String pizzaName) {
+    public PrzygotujCiasto(String pizzaName) {
         this.pizzaName = pizzaName;
     }
 
