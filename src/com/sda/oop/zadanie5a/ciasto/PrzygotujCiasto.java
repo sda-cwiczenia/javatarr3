@@ -4,14 +4,15 @@ public class PrzygotujCiasto implements PizzaDough{
 
     String pizzaName;
 
-    public PrzygotujCiasto(String pizzaName) {
-        this.pizzaName = pizzaName;
+    public PrzygotujCiasto(PizzaType pizzaName) {
+
+        this.pizzaName = pizzaName.name();
     }
 
     @Override
     public void preparePizzaDough() {
 
-        System.out.println("Przygotowujê ciasto dla pizza "+pizzaName);
+        System.out.println("PrzygotowujÄ™ ciasto dla pizza "+pizzaName);
 
     }
 }

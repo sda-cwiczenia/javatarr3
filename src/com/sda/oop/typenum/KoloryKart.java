@@ -30,7 +30,7 @@ public class KoloryKart {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.print("Wpisz jednπ z nazw poniøszych kolorÛw ");
+        System.out.print("Wpisz jednƒÖ z nazw poni≈ºszych kolor√≥w ");
         for(Suits c: Suits.values()){
             System.out.print(c+" ");
         }
@@ -41,7 +41,7 @@ public class KoloryKart {
             card = Suits.valueOf(cName);
             System.out.println(card.getPoints());
         } else {
-            System.out.println("Wpisa≥eú niepoprawny kolor");
+            System.out.println("Wpisa≈Çe≈õ niepoprawny kolor");
         }
 
     }

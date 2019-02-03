@@ -25,7 +25,7 @@ public class Hawaiian implements Pizza,Ingredients {
     public void preparePizza() {
         ciasto.preparePizzaDough();
         for (String skladnik : skladniki) {
-            System.out.println("Dodajê " + skladnik);
+            System.out.println("DodajÄ™ " + skladnik);
         }
         System.out.println("------------------------");
     }

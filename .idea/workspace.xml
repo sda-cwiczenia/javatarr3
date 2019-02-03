@@ -2,25 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68393361-a1ad-4cbf-9810-c71807a32987" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/oop/person/Adres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/oop/person/DanePersonalne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/oop/person/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/oop/person/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/oop/person/OsobaReal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PizzaType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/oop/typenum/EnumPrzyklad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/typenum/EnumPrzyklad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaZaawansowana/com/sda/oop/zadanie5a/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaZaawansowana/com/sda/oop/zadanie5a/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaZaawansowana/com/sda/oop/zadanie5a/ciasto/PrzygotujCiasto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaZaawansowana/com/sda/oop/zadanie5a/ciasto/PrzygotujCiasto.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sda/oop/typenum/KoloryKart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/typenum/KoloryKart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/oop/typenum/Tshirt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/typenum/Tshirt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/oop/typenum/UnknownAnswerException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/typenum/UnknownAnswerException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/oop/typenum/Zadanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/typenum/Zadanie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/oop/zadanie05/Ingredients.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/zadanie05/Ingredients.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/oop/zadanie05/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/zadanie05/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sda/oop/zadanie05/Margherita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/zadanie05/Margherita.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/oop/zadanie05/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/zadanie05/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/oop/zadanie05/PizzaDough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/zadanie05/PizzaDough.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/oop/zadanie05/doughs/AllAmericanThin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/zadanie05/doughs/AllAmericanThin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Hawaiian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Hawaiian.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Margherita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Margherita.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Pizza.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Veggie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Veggie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/Ingredients.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/Ingredients.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PizzaDough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PizzaDough.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PrzygotujCiasto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PrzygotujCiasto.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,20 +30,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Tshirt.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sda/oop/typenum/Tshirt.java">
+      <file leaf-file-name="Margherita.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie05/Margherita.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pizza.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Pizza.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="63">
+              <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,13 +45,10 @@
       <file leaf-file-name="Margherita.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Margherita.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="28" column="55" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="55" />
+            <state relative-caret-position="63">
+              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#122#130#0" expanded="true" />
-                <element signature="e#575#576#0" expanded="true" />
-                <element signature="e#602#603#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,13 +57,22 @@
       <file leaf-file-name="Hawaiian.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Hawaiian.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
+            <state relative-caret-position="63">
+              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#120#128#0" expanded="true" />
-                <element signature="e#635#636#0" expanded="true" />
-                <element signature="e#662#663#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie05/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="77" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,44 +81,59 @@
       <file leaf-file-name="Veggie.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Veggie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
+            <state relative-caret-position="114">
+              <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#170#178#0" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
-                <element signature="e#657#658#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OsobaReal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sda/oop/person/OsobaReal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="53" column="20" selection-start-line="47" selection-end-line="53" selection-end-column="20" />
+              <folding>
+                <element signature="e#142#143#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KoloryKart.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sda/oop/typenum/KoloryKart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Adres.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sda/oop/person/Adres.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="14" column="18" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/sda/oop/person/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ingredients.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/Ingredients.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PizzaDough.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PizzaDough.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
+            <state relative-caret-position="255">
+              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -129,29 +141,8 @@
       <file leaf-file-name="PrzygotujCiasto.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PrzygotujCiasto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="69" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
-              <folding>
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EnumPrzyklad.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sda/oop/typenum/EnumPrzyklad.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-              <folding>
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#1460#1461#0" expanded="true" />
-                <element signature="e#1522#1523#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="308">
+              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -161,6 +152,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -186,10 +178,8 @@
         <option value="$PROJECT_DIR$/src/com/sda/oop/zadanie05/PizzaDough.java" />
         <option value="$PROJECT_DIR$/src/com/sda/oop/zadanie05/AllAmericanThin.java" />
         <option value="$PROJECT_DIR$/src/com/sda/oop/zadanie05/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/sda/oop/zadanie05/Margherita.java" />
         <option value="$PROJECT_DIR$/src/com/sda/oop/typenum/ThirtSize.java" />
         <option value="$PROJECT_DIR$/src/com/sda/oop/typenum/Zadanie.java" />
-        <option value="$PROJECT_DIR$/src/com/sda/oop/typenum/KoloryKart.java" />
         <option value="$PROJECT_DIR$/src/com/sda/oop/typenum/EnumPrzyklad.java" />
         <option value="$PROJECT_DIR$/src/com/sda/oop/typenum/UnknownAnswerException.java" />
         <option value="$PROJECT_DIR$/src/com/sda/oop/typenum/Tshirt.java" />
@@ -198,10 +188,19 @@
         <option value="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PizzaDough.java" />
         <option value="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/AllAmericanThin.java" />
         <option value="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PrzygotujPizze.java" />
-        <option value="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Margherita.java" />
-        <option value="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Hawaiian.java" />
-        <option value="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Veggie.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PizzaType.java" />
         <option value="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/oop/person/Osoba.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/oop/person/Adres.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/oop/person/OsobaReal.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/oop/person/DanePersonalne.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PrzygotujCiasto.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/oop/person/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Hawaiian.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Margherita.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/oop/zadanie05/Margherita.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/oop/typenum/KoloryKart.java" />
+        <option value="$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Veggie.java" />
       </list>
     </option>
   </component>
@@ -219,7 +218,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,22 +242,21 @@
               <item name="JavaZaawansowana" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="zadanie5a" type="462c0819:PsiDirectoryNode" />
+              <item name="person" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaZaawansowana" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaZaawansowana" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="zadanie5a" type="462c0819:PsiDirectoryNode" />
-              <item name="ciasto" type="462c0819:PsiDirectoryNode" />
+              <item name="zadanie05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,10 +264,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sda.oop.zadanie5a.ciasto" />
       <recent name="com.sda.oop.typenum" />
       <recent name="com.sda.oop.zadanie05" />
     </key>
@@ -286,20 +285,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="EnumPrzyklad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sda.oop.typenum.EnumPrzyklad" />
-      <module name="JavaZaawansowana" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sda.oop.typenum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="KoloryKart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.oop.typenum.KoloryKart" />
       <module name="JavaZaawansowana" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -320,19 +308,30 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Tshirt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.oop.typenum.Tshirt" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.oop.zadanie05.Main" />
       <module name="JavaZaawansowana" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.oop.typenum.*" />
+          <option name="PATTERN" value="com.sda.oop.zadanie05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Zadanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.oop.typenum.Zadanie" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.oop.person.Main" />
+      <module name="JavaZaawansowana" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sda.oop.person.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Tshirt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.oop.typenum.Tshirt" />
       <module name="JavaZaawansowana" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -385,18 +384,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Tshirt" />
-      <item itemvalue="Application.Zadanie" />
-      <item itemvalue="Application.KoloryKart" />
       <item itemvalue="Application.EnumPrzyklad" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Tshirt" />
         <item itemvalue="Application.EnumPrzyklad" />
-        <item itemvalue="Application.Zadanie" />
-        <item itemvalue="Application.KoloryKart" />
       </list>
     </recent_temporary>
   </component>
@@ -414,23 +413,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1277" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1170" height="736" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32961783" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3280255" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2662722" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37261146" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2928994" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5589172" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22283901" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32988167" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18370883" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -442,19 +441,20 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32988167" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.8505917" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22283901" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -466,7 +466,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32961783" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info id="Favorites" order="6" side_tool="true" />
@@ -476,6 +476,152 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Veggie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/Ingredients.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PizzaDough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PrzygotujCiasto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="13" column="69" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/typenum/EnumPrzyklad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+          <folding>
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#1460#1461#0" expanded="true" />
+            <element signature="e#1522#1523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/typenum/Tshirt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Margherita.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" column="55" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Hawaiian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Veggie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/Ingredients.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PizzaDough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PrzygotujCiasto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="13" column="69" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/typenum/EnumPrzyklad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+          <folding>
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#1460#1461#0" expanded="true" />
+            <element signature="e#1522#1523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie05/Margherita.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
@@ -588,37 +734,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie05/Margherita.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="28" column="57" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie05/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="11" column="77" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sda/oop/typenum/UnknownAnswerException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/typenum/KoloryKart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -631,7 +750,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sda/oop/typenum/EnumPrzyklad.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="1485">
           <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding>
             <element signature="e#337#338#0" expanded="true" />
@@ -646,14 +765,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sda/oop/typenum/Tshirt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="540">
           <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Pizza.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="81">
           <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
         </state>
       </provider>
@@ -661,74 +780,146 @@
     <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PizzaDough.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PrzygotujCiasto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="69" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Hawaiian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#120#128#0" expanded="true" />
-            <element signature="e#635#636#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Veggie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#170#178#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-          </folding>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/Ingredients.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state>
           <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Margherita.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PizzaType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="55" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#122#130#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-7">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        <state relative-caret-position="-7">
+          <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/person/Osoba.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/person/DanePersonalne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+          <folding>
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/person/OsobaReal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="53" column="20" selection-start-line="47" selection-end-line="53" selection-end-column="20" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/person/Adres.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="14" column="18" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/ciasto/PrzygotujCiasto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Hawaiian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Margherita.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie05/Margherita.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/typenum/KoloryKart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie5a/Veggie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/zadanie05/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="77" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sda/oop/person/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
         </state>
       </provider>
     </entry>

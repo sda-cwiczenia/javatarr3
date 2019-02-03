@@ -24,7 +24,7 @@ public class Margherita implements Pizza, Ingredients {
         System.out.println("Przygotowywanie pizza Margherita:");
         ciasto.preparePizzaDough();
         for(String skladnik :ingredients){
-            System.out.println("Dodajê sk³adnik: "+skladnik);
+            System.out.println("DodajÄ™ skÅ‚adnik: "+skladnik);
         }
         System.out.println("-----------------------------");
     }
